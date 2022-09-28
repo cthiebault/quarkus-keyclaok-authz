@@ -1,6 +1,6 @@
 # Quarkus with Keycloak Authorization & Policy Enforcer
 
-Demo project to show Policy Enforcer error...
+**Demo project to show Policy Enforcer error: newly created Keycloak resources are not found by policy enforcer.**
 
 Based on Quarkus quick start
 [Using Keycloak Authorization Services and Policy Enforcer to Protect JAX-RS Applications](https://github.com/quarkusio/quarkus-quickstarts/tree/main/security-keycloak-authorization-quickstart)
